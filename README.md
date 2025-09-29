@@ -1,3 +1,3 @@
 # doodleblocker
-Custom chrome extention to block google doodles
+Custom chrome extention to block google doodles  <br> 
 THIS FILE AND ALL SUBSEQUENT FILES IN THIS REPO ARE FOR THE EXCLUSIVE USE OF SAINT MARYS ACADEMY, GLENS FALLS, NEW YORK
