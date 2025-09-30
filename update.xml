@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="fcdmgjfgcnadecmololcnphndjmoeocm">
-    <updatecheck codebase="https://github.com/TotallyCoolMrM/doodleblocker/blob/main/block-doodles.crx" version="2.4"/>
+    <updatecheck codebase="https://totallycoolmrm.github.io/doodleblocker/block-doodles.crx" version="2.4"/>
   </app>
 </gupdate>
